@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Echo</string>
+    <string name="title_item_detail">Echo Detail</string>
+</resources>
